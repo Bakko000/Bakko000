@@ -5,8 +5,7 @@
 - 📫 How to reach me? By my linkedin https://www.linkedin.com/in/corrado-baccheschi-97699a214/ or my personal email: corrado.baccheschi@gmail.com
 
 
-
-- Nihil difficile amanti. -
+Nihil difficile amanti.
 
 <!---
 - 📚 I’m currently attending a Master's Degree in Language Technologies at the University of Pisa
